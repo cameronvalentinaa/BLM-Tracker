@@ -14,7 +14,7 @@
 
     <style>
     h1, h2, a {
-        color: #FFFC52;
+        color: #facb20;
     }
     </style>
 </head>
@@ -44,19 +44,18 @@
                     height="480"></iframe>
             </div>
             <div class="col">
-                <h2 style="font-size: 70px; font-weight: 900;">Tweets by the Govenor and Seattle PD</h2>
+                <h2 style="font-size: 70px; font-weight: 900;">Governor Bill de Blasios Tweets PD</h2>
                 <br>
                 <!-- Place <div> tag where you want the feed to appear -->
-                <div id="curator-feed-washington-layout"><a href="https://curator.io" target="_blank"
-                        class="crt-logo crt-tag">Powered by Curator.io</a></div>
+                <div id="curator-feed-nyc-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
                 <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-                <script type="text/javascript">
-                    /* curator-feed-washington-layout */
-                    (function () {
-                        var i, e, d = document, s = "script"; i = d.createElement("script"); i.async = 1;
-                        i.src = "https://cdn.curator.io/published/72052b8c-5a2d-46aa-baa6-18cb48fb63f3.js";
-                        e = d.getElementsByTagName(s)[0]; e.parentNode.insertBefore(i, e);
-                    })();
+                    <script type="text/javascript">
+                /* curator-feed-nyc-layout */
+                    (function(){
+                var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+                i.src = "https://cdn.curator.io/published/cad24288-4e8d-4fbc-8bd0-708b5b2ad035.js";
+                e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+                })();
                 </script>
             </div>
         </div>
