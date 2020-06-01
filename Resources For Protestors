@@ -27,7 +27,7 @@
         <div class="row">
             <div class="col">
                 <h2 style="font-size: 60px; font-weight: 700;">Safety for Protestors </h2>
-                <h3><a style="color: inherit; text-decoration: underline;"
+                <h3><a style= "text-decoration: underline;"
                         href="https://www.amnestyusa.org/pdfs/SafeyDuringProtest_F.pdf"> Amnesty International:</a> How to protect yourself and your identity whilst protesting. </h3>
                 <br>
                 <h2 style="font-size: 60px; font-weight: 700;">Bail Funds For Protestors: </h2>
@@ -41,18 +41,9 @@
              
             </div>
             <div class="col">
-                <h2 style="font-size: 60px; font-weight: 700;">Governor Bill de Blasios Tweets PD</h2>
-                <br>
-                <!-- Place <div> tag where you want the feed to appear -->
-                <div id="curator-feed-nyc-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
-                <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-                    <script type="text/javascript">
-                /* curator-feed-nyc-layout */
-                    (function(){
-                var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-                i.src = "https://cdn.curator.io/published/cad24288-4e8d-4fbc-8bd0-708b5b2ad035.js";
-                e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
-                })();
+                <h2 style="font-size: 60px; font-weight: 700;"> Letter From Birmingham Jail : </h2>
+                <h3><a style="text-decoration: underline;"
+                        href=https://www.africa.upenn.edu/Articles_Gen/Letter_Birmingham.html> Dr. Martin Luther Kings Letter From Birmingham Jail</a></h3>
                 </script>
             </div>
         </div>
